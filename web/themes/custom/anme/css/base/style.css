@@ -1,0 +1,21 @@
+html,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul {
+    padding: 0px!important;
+    margin: 0px!important;
+}
+a {
+    text-decoration: none;
+}
+p {
+    padding: 5px;
+}
+#main-wrapper {
+    padding: 20px 10px 10px 10px;
+}
