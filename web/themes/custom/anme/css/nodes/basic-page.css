@@ -11,7 +11,7 @@ body.page-type-page #sidebar-second {
 
 body.page-type-page #content #block-anme-content article {
 }
-body.page-type-page #content #block-anme-content article p {
+body.page-type-page #content #block-anme-content article .field-items p {
     text-align: justify;
     font-size: 18px;
     line-height: 1.5;
@@ -19,10 +19,10 @@ body.page-type-page #content #block-anme-content article p {
     font-family: Corbel !important;
     text-indent: 15px;
 }
-body.page-type-page #content #block-anme-content article ul {
+body.page-type-page #content #block-anme-content article .field-items ul {
     list-style: none;
 }
-body.page-type-page #content #block-anme-content article ul li {
+body.page-type-page #content #block-anme-content article .field-items ul li {
     padding-left: 25px;
     font-size: 14px;
     color: #000;
@@ -31,10 +31,10 @@ body.page-type-page #content #block-anme-content article ul li {
     font-weight: 300;
     text-indent: 10px;
 }
-body.lang-ar.page-type-page #content #block-anme-content article ul li {
+body.lang-ar.page-type-page #content #block-anme-content article .field-items ul li {
     text-align: right;
 }
-body.page-type-page #content #block-anme-content article ul li::before {
+body.page-type-page #content #block-anme-content article .field-items ul li::before {
     content: "";
     background: url('../../images/icons/puce.png');
     height: 10px;
@@ -42,33 +42,33 @@ body.page-type-page #content #block-anme-content article ul li::before {
     display: inline-block;
     margin-right: 10px;
 }
-body.lang-ar.page-type-page #content #block-anme-content article ul li::before {
+body.lang-ar.page-type-page #content #block-anme-content article .field-items ul li::before {
     margin-left: 10px;
 }
-body.page-type-page #content #block-anme-content article table {
+body.page-type-page #content #block-anme-content article .field-items  table {
     width: 100%;
     border-collapse: collapse; /* Ensures borders are collapsed */
     margin: 20px 0; /* Adds margin around the table */
 }
 
-body.page-type-page #content #block-anme-content article th,body.page-type-page #content #block-anme-content article td {
+body.page-type-page #content #block-anme-content article .field-items th,body.page-type-page #content #block-anme-content article .field-items td {
     border: 1px solid #ddd; /* Light gray border */
     padding: 8px; /* Padding inside cells */
     text-align: left; /* Align text to the left */
 }
-body.lang-ar.page-type-page #content #block-anme-content article th,body.lang-ar.page-type-page #content #block-anme-content article td {
+body.lang-ar.page-type-page #content #block-anme-content article .field-items th,body.lang-ar.page-type-page #content #block-anme-content article .field-items td {
     text-align: right;
 }
 
-body.page-type-page #content #block-anme-content article th {
+body.page-type-page #content #block-anme-content article .field-items th {
     background-color: #f4f4f4; /* Light gray background for headers */
     font-weight: bold; /* Bold text for headers */
 }
 
-body.page-type-page #content #block-anme-content article tr:nth-child(even) {
+body.page-type-page #content #block-anme-content article .field-items tr:nth-child(even) {
     background-color: #f9f9f9; /* Zebra striping for even rows */
 }
 
-body.page-type-page #content #block-anme-content article tr:hover {
+body.page-type-page #content #block-anme-content article .field-items tr:hover {
     background-color: #f1f1f1; /* Highlight row on hover */
 }
