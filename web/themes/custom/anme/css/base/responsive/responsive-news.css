@@ -1,18 +1,18 @@
 /*CSS for container of front page*/
-@media (min-width: 300px) and (max-width: 770px) {
+@media (min-width: 300px) and (max-width: 768px) {
     body.page-type-news_events #main-wrapper.container {
         max-width: 100vw;
     }
     body.page-type-news_events #content-bottom {
-        width: 80vw;
+        width: 90vw;
         padding-left: 50px;
     }
 }
 /*CSS for block-anme-tabsmenu*/
-@media (min-width: 300px) and (max-width: 770px) {
+@media (min-width: 300px) and (max-width: 768px) {
     body.page-type-news_events #highlighted-header-first {
         margin: 0px;
-        max-width: 770px;
+        max-width: 768px;
     }
     body.page-type-news_events #block-anme-tabsmenu  {
         /* display: block!important;*/
@@ -25,20 +25,20 @@
     }
 }
 /*css for block-anme-anme-site-logo */
-@media (min-width: 300px) and (max-width: 770px) {
+@media (min-width: 300px) and (max-width: 768px) {
     body.page-type-news_events #top-header-second #block-anme-anme-site-logo {
         margin-top: 20px;
         text-align: center;
     }
 }
 /*css for block-anme-search-form */
-@media (min-width: 300px) and (max-width: 770px) {
+@media (min-width: 300px) and (max-width: 768px) {
     body.page-type-news_events #top-header-second #block-anme-search-form {
         display: none;
     }
 }
 /*CSS for #block-anme-views-block-front-page-slider-block-1 in highlighted-header-last region */
-@media (min-width: 300px) and (max-width: 770px) {
+@media (min-width: 300px) and (max-width: 768px) {
     body.page-type-news_events #highlighted-header-last #block-anme-views-block-front-page-slider-block-1 .owl-slider-wrapper {
 
     }
@@ -47,7 +47,7 @@
     }
 }
 /*CSS for #block-anme-views-block-general-public-slider-block-1 in highlighted-header-last region */
-@media (min-width: 300px) and (max-width: 770px) {
+@media (min-width: 300px) and (max-width: 768px) {
     body.page-type-news_events #highlighted-header-last #block-anme-views-block-general-public-slider-block-1 .owl-slider-wrapper {
 
     }
@@ -56,7 +56,7 @@
     }
 }
 /*CSS for #block-anme-views-block-companies-slider-block-1 in highlighted-header-last region */
-@media (min-width: 300px) and (max-width: 770px) {
+@media (min-width: 300px) and (max-width: 768px) {
     body.page-type-news_events #highlighted-header-last #block-anme-views-block-companies-slider-block-1 .owl-slider-wrapper {
 
     }
@@ -65,7 +65,7 @@
     }
 }
 /*CSS for #block-anme-views-block-trade-professionals-slider-block-1 in highlighted-header-last region */
-@media (min-width: 300px) and (max-width: 770px) {
+@media (min-width: 300px) and (max-width: 768px) {
     body.page-type-news_events #highlighted-header-last #block-anme-views-block-trade-professionals-slider-block-1 .owl-slider-wrapper {
 
     }
@@ -74,7 +74,7 @@
     }
 }
 /*CSS for #block-anme-views-block-press-slider-block-1 in highlighted-header-last region */
-@media (min-width: 300px) and (max-width: 770px) {
+@media (min-width: 300px) and (max-width: 768px) {
     body.page-type-news_events #highlighted-header-last #block-anme-views-block-press-slider-block-1 .owl-slider-wrapper {
 
     }
@@ -83,7 +83,7 @@
     }
 }
 /*CSS for #block-anme-views-block-three-sector-products-block-2 in sidebar-second region */
-/*@media (min-width: 300px) and (max-width: 770px) {
+/*@media (min-width: 300px) and (max-width: 768px) {
     body.page-type-news_events #sidebar-second #block-anme-views-block-three-sector-products-block-2 .owl-slider-wrapper {
         width: 100%;
     }

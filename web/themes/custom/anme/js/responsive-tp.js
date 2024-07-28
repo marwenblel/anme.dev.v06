@@ -3,7 +3,7 @@
 
         var width = window.innerWidth;
 
-        if (width >= 300 && width <= 760) {
+        if (width >= 300 && width <= 768) {
             var sidebarSecond = document.querySelector('body.page-id-8 #sidebar-second');
             var content = document.querySelector('body.page-id-8 #content');
 
@@ -21,7 +21,7 @@
 
         var width = window.innerWidth;
 
-        if (width > 760) {
+        if (width > 768) {
             var sidebarSecond = document.querySelector('body.page-id-8 #sidebar-second');
             var content = document.querySelector('body.page-id-8 #content');
 

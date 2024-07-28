@@ -3,7 +3,7 @@
 
         var width = window.innerWidth;
 
-        if (width >= 300 && width <= 760) {
+        if (width >= 300 && width <= 768) {
             var mainWrapper = document.querySelector('#main-wrapper');
             var main = document.querySelector('#main');
             var sidebarSecond = document.querySelector('#sidebar-second');
@@ -26,7 +26,7 @@
 
         var width = window.innerWidth;
 
-        if (width > 760) {
+        if (width > 768) {
 
             var mainWrapper = document.querySelector('#main-wrapper');
             var main = document.querySelector('#main');

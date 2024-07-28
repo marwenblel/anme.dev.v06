@@ -2,16 +2,16 @@
   padding: 0px!important;
 }
 /*CSS for top-header-first tpl */
-@media (min-width: 300px) and (max-width: 770px) {
+@media (min-width: 300px) and (max-width: 768px) {
     #top-header-first {
         display: none;
     }
 }
 /*CSS for block-anme-tabsmenu*/
-@media (min-width: 300px) and (max-width: 770px) {
+@media (min-width: 300px) and (max-width: 768px) {
     #highlighted-header-first {
         margin: 0px;
-        max-width: 770px;
+        max-width: 768px;
     }
     #block-anme-tabsmenu  {
         /* display: block!important;*/
@@ -37,7 +37,7 @@
 
 
 /*css for block-anme-anme-site-logo */
-@media (min-width: 300px) and (max-width: 770px) {
+@media (min-width: 300px) and (max-width: 768px) {
     #top-header-second #block-anme-anme-site-logo {
         margin-top: 20px;
         text-align: center;
@@ -45,13 +45,42 @@
 }
 
 /*css for block-anme-search-form */
-@media (min-width: 300px) and (max-width: 770px) {
+@media (min-width: 300px) and (max-width: 768px) {
     #top-header-second #block-anme-search-form {
         display: none;
     }
 }
+/*CSS for block-anme-views-block-banner-product-block-1 */
+@media (min-width: 300px) and (max-width: 768px) {
+    #content div#block-anme-views-block-banner-product-block-1 {
+
+    }
+    #content div#block-anme-views-block-banner-product-block-1 div.block-content .owl-stage-outer {
+
+    }
+    #content div#block-anme-views-block-banner-product-block-1 div.block-content .owl-stage {
+        /* width: 3072px!important;*/
+        width: 400vw!important;
+
+    }
+    #content div#block-anme-views-block-banner-product-block-1 div.block-content .owl-stage-outer .owl-item  {
+        /*width: 768px!important;*/
+        width: 100vw!important;
+
+    }
+    #content div#block-anme-views-block-banner-product-block-1 div.block-content .owl-stage-outer .owl-item div.title {
+
+
+    }
+    #content div#block-anme-views-block-banner-product-block-1 div.block-content .owl-stage-outer .owl-item img {
+
+    }
+}
+
+
+
 /*CSS for block-anme-views-block-news-events-block-1 */
-@media (min-width: 300px) and (max-width: 770px) {
+@media (min-width: 300px) and (max-width: 768px) {
     #content div#block-anme-views-block-news-events-block-1 {
         background-color: #00a3da!important;
 
@@ -60,7 +89,14 @@
     #content div#block-anme-views-block-news-events-block-1 div.block-content .owl-stage-outer {
 
     }
+    #content div#block-anme-views-block-news-events-block-1 div.block-content .owl-stage {
+       /* width: 3072px!important;*/
+        width: 400vw!important;
+
+    }
     #content div#block-anme-views-block-news-events-block-1 div.block-content .owl-stage-outer .owl-item  {
+       /*width: 768px!important;*/
+        width: 100vw!important;
 
     }
     #content div#block-anme-views-block-news-events-block-1 div.block-content .owl-stage-outer .owl-item div.title {
@@ -72,23 +108,96 @@
     }
 }
 /*CSS for #block-anme-views-block-services-widgets-block-1 in content  */
-@media (min-width: 300px) and (max-width: 770px) {
+@media (min-width: 300px) and (max-width: 768px) {
     #content #block-anme-views-block-services-widgets-block-1 .views-view-responsive-grid--horizontal {
         display:block;
     }
 }
 
 /*CSS for #block-anme-anme-label in content  */
-@media (min-width: 300px) and (max-width: 770px) {
+@media (min-width: 300px) and (max-width: 768px) {
     #content #block-anme-anme-label .h2-titre,
     #content #block-anme-anme-label .devis {
         display:none;
     }
 }
+/********************************/
+/*CSS for block-anme-views-block-three-sector-products-block-1 in highlighted */
+@media (min-width: 300px) and (max-width: 768px) {
+    #highlighted div#block-anme-views-block-three-sector-products-block-1 {
+
+
+
+    }
+    #highlighted div#block-anme-views-block-three-sector-products-block-1 div.block-content .owl-stage-outer {
+
+    }
+    #highlighted div#block-anme-views-block-three-sector-products-block-1 div.block-content .owl-stage {
+        /* width: 3072px!important;*/
+       width: 300vw!important;
+
+    }
+    #highlighted div#block-anme-views-block-three-sector-products-block-1 div.block-content .owl-stage-outer .owl-item  {
+        /*width: 768px!important;*/
+        width: 100vw!important;
+
+    }
+    #highlighted div#block-anme-views-block-three-sector-products-block-1 div.block-content .owl-stage-outer .owl-item div.title {
+
+
+    }
+    #highlighted div#block-anme-views-block-three-sector-products-block-1 div.block-content .owl-stage-outer .owl-item img {
+
+    }
+}
+/********************************/
+
+
+
+
+
+
+
+
+
+
+/********************************/
+/*CSS for block-anme-views-block-three-sector-products-block-2 in sidebar second */
+@media (min-width: 300px) and (max-width: 768px) {
+    #sidebar-second div#block-anme-views-block-three-sector-products-block-2 {
+
+
+
+    }
+    #sidebar-second div#block-anme-views-block-three-sector-products-block-2 div.block-content .owl-stage-outer {
+
+    }
+    #sidebar-second div#block-anme-views-block-three-sector-products-block-2 div.block-content .owl-stage {
+        /* width: 3072px!important;*/
+        width: 300vw!important;
+
+    }
+    #sidebar-second div#block-anme-views-block-three-sector-products-block-2 div.block-content .owl-stage-outer .owl-item  {
+        /*width: 768px!important;*/
+        width: 100vw!important;
+
+    }
+    #sidebar-second div#block-anme-views-block-three-sector-products-block-2 div.block-content .owl-stage-outer .owl-item div.title {
+
+
+    }
+    #sidebar-second div#block-anme-views-block-three-sector-products-block-2 div.block-content .owl-stage-outer .owl-item img {
+
+    }
+}
+/********************************/
+
+
+
 
 
 /*CSS for block-anme-views-block-three-sector-products-block-2 */
-@media (min-width: 300px) and (max-width: 770px) {
+@media (min-width: 300px) and (max-width: 768px) {
     #sidebar-second div#block-anme-views-block-three-sector-products-block-2 div.block-content .owl-stage-outer .owl-item  {
        /*width:80vw!important;
        padding-left:5px;
@@ -99,14 +208,15 @@
 }
 
 /*css for block-anme-views-block-webinair-block-1 */
-@media (min-width: 300px) and (max-width: 770px) {
+@media (min-width: 300px) and (max-width: 768px) {
     #footer-top #block-anme-views-block-webinair-block-1 {
         display: none;
     }
 }
 
+
 /*CSS for #block-anme-views-block-our-platforms-block-1 in content bottom region */
-@media (min-width: 300px) and (max-width: 770px) {
+@media (min-width: 300px) and (max-width: 768px) {
      body.lang-ar #content-bottom #block-anme-views-block-our-platforms-block-1 {
         margin-right:40px;   
     }
@@ -125,7 +235,7 @@
 }
 
 /*CSS for footer-content tpl */
-/*@media (min-width: 300px) and (max-width: 770px) {
+/*@media (min-width: 300px) and (max-width: 768px) {
     #footer-content .block {
         display: block!important;
     }
