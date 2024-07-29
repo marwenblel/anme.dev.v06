@@ -70,6 +70,11 @@ body.lang-ar #block-anme-main-navigation .sf-accordion-toggle  {
 }
 #block-anme-main-navigation #superfish-main-accordion {
     background-color: #00a3da;
+    position: fixed !important;
+    height: 100% !important; width: 50vw !important;
+    top: 27px !important;
+    border-top-right-radius: 14px!important;
+    border-bottom-right-radius: 14px!important;
 }
 #block-anme-main-navigation #superfish-main-accordion li {
     color: #ffffff;

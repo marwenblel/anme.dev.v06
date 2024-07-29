@@ -52,6 +52,7 @@ global-styling:
     js/amne-main-nav.js: {}
     js/sector-statistics-tab.js: {}
     js/top-toggle.js: {}
+    js/nav-toggle.js: {}
 
 
   dependencies:

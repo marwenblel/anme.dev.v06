@@ -39,4 +39,4 @@
     window.addEventListener('load', replaceClassByCol);
     window.addEventListener('resize', reverseReplaceClassByCol);
     window.addEventListener('load', reverseReplaceClassByCol);
-})(jQuery)
+})(jQuery);
