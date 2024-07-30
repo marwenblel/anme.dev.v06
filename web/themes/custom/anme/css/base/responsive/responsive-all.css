@@ -235,9 +235,9 @@
 }
 
 /*CSS for footer-content tpl */
-/*@media (min-width: 300px) and (max-width: 768px) {
-    #footer-content .block {
+@media (min-width: 300px) and (max-width: 768px) {
+    #footer-content div.row {
         display: block!important;
     }
-}*/
+}
 

@@ -1,4 +1,5 @@
-body.lang-ar p {
+body.lang-ar p,
+body.lang-ar ul li a {
     text-align: right;
 }
 .lang-ar h1,

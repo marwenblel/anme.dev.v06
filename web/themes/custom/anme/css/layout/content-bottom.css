@@ -40,6 +40,9 @@
     height: 100%;
     min-height: 88px;
 }
+body.lang-ar #content-bottom #block-anme-views-block-our-platforms-block-1 .block-content .row .col .views-field-field-plateform-link {
+    text-align: right;
+}
 #content-bottom #block-anme-views-block-our-platforms-block-1 .block-content .row .col .views-field-field-plateform-link a {
     color: #000000;
     text-align: center;
