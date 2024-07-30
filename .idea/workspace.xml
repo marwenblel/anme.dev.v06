@@ -54,7 +54,7 @@
       <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v06\web\sites\default\files\php\twig\66a8cccef39f7_system-config-form.html.t_td_GSN3CM9eX7Lyeu20fosq4U\x2gnoy1MIvEofh5JbROSIdlRPxFLzArIri8KvFjP3zc.php" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v06\web\sites\default\files\php\twig\66a8cccef39f7_toolbar.html.twig_rE2N5uPJ9ThbyaAxfhPuZUr9B\.htaccess" afterPath="" />
       <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v06\web\sites\default\files\php\twig\66a8cccef39f7_toolbar.html.twig_rE2N5uPJ9ThbyaAxfhPuZUr9B\UqWXB29u4ZG8LO1lmlR0n0DPbuunFlNRPeTm-WoDzvg.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/sites/default/files/php/twig/.htaccess" afterPath="$PROJECT_DIR$/web/sites/default/files/php/twig/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/themes/custom/anme/css/nodes/basic-page.css" afterPath="$PROJECT_DIR$/web/themes/custom/anme/css/nodes/basic-page.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/themes/custom/anme/css/layout/content-bottom.css" afterPath="$PROJECT_DIR$/web/themes/custom/anme/css/layout/content-bottom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/themes/custom/anme/css/layout/highlighted-header-second.css" afterPath="$PROJECT_DIR$/web/themes/custom/anme/css/layout/highlighted-header-second.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/themes/custom/anme/js/nav-toggle.js" afterPath="$PROJECT_DIR$/web/themes/custom/anme/js/nav-toggle.js" />
@@ -88,83 +88,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="nav-toggle.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/js/nav-toggle.js">
+      <file leaf-file-name="project.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/nodes/project.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="anme.libraries.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/anme.libraries.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="328" max-vertical-offset="1122">
-              <caret line="56" column="23" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1496">
+              <caret line="0" column="93" selection-start-line="0" selection-start-column="93" selection-end-line="0" selection-end-column="93" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="top-toggle.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/js/top-toggle.js">
+      <file leaf-file-name="basic-page.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/nodes/basic-page.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-              <caret line="1" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="9" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="highlighted-header-second.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/layout/highlighted-header-second.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1110" max-vertical-offset="1853">
-              <caret line="92" column="29" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rtl.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/base/rtl/rtl.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.27703702" vertical-offset="0" max-vertical-offset="675">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content-bottom.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/layout/content-bottom.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="260" max-vertical-offset="986">
-              <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer-content.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/layout/footer-content.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1739" max-vertical-offset="2414">
-              <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="responsive-all.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/base/responsive/responsive-all.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.8529415" vertical-offset="3592" max-vertical-offset="4233">
-              <caret line="239" column="33" selection-start-line="239" selection-start-column="33" selection-end-line="239" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.9496296" vertical-offset="651" max-vertical-offset="1394">
+              <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -195,7 +133,6 @@
         <option value="$PROJECT_DIR$/web/themes/custom/anme/js/top-toggle.js" />
         <option value="$PROJECT_DIR$/web/themes/custom/anme/css/base/fix.css" />
         <option value="$PROJECT_DIR$/web/themes/custom/anme/templates/node/node--page.html.twig" />
-        <option value="$PROJECT_DIR$/web/themes/custom/anme/css/nodes/basic-page.css" />
         <option value="$PROJECT_DIR$/web/themes/custom/anme/templates/node/node--project.html.twig" />
         <option value="$PROJECT_DIR$/web/themes/custom/anme/css/nodes/project.css" />
         <option value="$PROJECT_DIR$/web/themes/custom/anme/css/layout/highlighted.css" />
@@ -204,9 +141,10 @@
         <option value="$PROJECT_DIR$/web/themes/custom/anme/anme.libraries.yml" />
         <option value="$PROJECT_DIR$/web/themes/custom/anme/js/nav-toggle.js" />
         <option value="$PROJECT_DIR$/web/themes/custom/anme/css/base/responsive/responsive-all.css" />
-        <option value="$PROJECT_DIR$/web/themes/custom/anme/css/layout/highlighted-header-second.css" />
         <option value="$PROJECT_DIR$/web/themes/custom/anme/css/layout/content-bottom.css" />
         <option value="$PROJECT_DIR$/web/themes/custom/anme/css/base/rtl/rtl.css" />
+        <option value="$PROJECT_DIR$/web/themes/custom/anme/css/layout/highlighted-header-second.css" />
+        <option value="$PROJECT_DIR$/web/themes/custom/anme/css/nodes/basic-page.css" />
       </list>
     </option>
   </component>
@@ -409,7 +347,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
+              <option name="myItemId" value="nodes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -522,6 +460,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="475" max-vertical-offset="1394">
           <caret line="66" column="50" selection-start-line="66" selection-start-column="50" selection-end-line="66" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -715,24 +654,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/nodes/basic-page.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4624592" vertical-offset="306" max-vertical-offset="1394">
-          <caret line="43" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/templates/node/node--project.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.88577825" vertical-offset="1045" max-vertical-offset="1972">
           <caret line="108" column="0" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/nodes/project.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1496">
-          <caret line="0" column="93" selection-start-line="0" selection-start-column="93" selection-end-line="0" selection-end-column="93" />
         </state>
       </provider>
     </entry>
@@ -817,7 +742,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/layout/footer-content.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1739" max-vertical-offset="2414">
+        <state vertical-scroll-proportion="-1.3674074" vertical-offset="1739" max-vertical-offset="2414">
           <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
           <folding />
         </state>
@@ -825,23 +750,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/base/responsive/responsive-all.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.8529415" vertical-offset="3592" max-vertical-offset="4233">
+        <state vertical-scroll-proportion="0.7347894" vertical-offset="3592" max-vertical-offset="4233">
           <caret line="239" column="33" selection-start-line="239" selection-start-column="33" selection-end-line="239" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/layout/highlighted-header-second.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1110" max-vertical-offset="1853">
-          <caret line="92" column="29" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/layout/content-bottom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="260" max-vertical-offset="986">
+        <state vertical-scroll-proportion="0.6725926" vertical-offset="260" max-vertical-offset="986">
           <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
           <folding />
         </state>
@@ -851,6 +768,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27703702" vertical-offset="0" max-vertical-offset="675">
           <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/layout/highlighted-header-second.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3451852" vertical-offset="1110" max-vertical-offset="1870">
+          <caret line="79" column="16" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/nodes/project.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1496">
+          <caret line="0" column="93" selection-start-line="0" selection-start-column="93" selection-end-line="0" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/nodes/basic-page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9496296" vertical-offset="651" max-vertical-offset="1394">
+          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
           <folding />
         </state>
       </provider>
