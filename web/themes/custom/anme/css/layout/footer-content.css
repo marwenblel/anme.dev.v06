@@ -12,6 +12,12 @@
     font-family: 'Roboto', sans-serif;
     margin-bottom: 50px!important;
 }
+
+
+
+#footer-content #block-anme-seeaswell .block-content {
+    padding: 5px;
+}
 #footer-content #block-anme-seeaswell .block-content > div {
     width: 180px;
     display: block;
@@ -24,16 +30,25 @@
     font-weight: 600 !important;
     font-family: Corbel !important;
 }
+
+body.lang-ar #footer-content #block-anme-seeaswell .block-content div {
+    text-align: right;
+}
+
+
 #footer-content #block-anme-contact .block-content {
     font-size: 13px;
     margin-bottom: 10px;
     line-height: 18px;
     font-family: Corbel !important;
+    padding: 5px;
 }
 #footer-content #block-anme-contact .block-content a {
     color: #000000;
 }
-
+body.lang-ar #footer-content #block-anme-contact .block-content div {
+    text-align: right;
+}
 
 
 /**CSS FOR #block-anme-bottom-social-links */

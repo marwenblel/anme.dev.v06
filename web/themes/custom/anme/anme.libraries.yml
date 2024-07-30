@@ -40,6 +40,8 @@ global-styling:
       css/nodes/sector.css: {}
       css/nodes/news.css: {}
       css/nodes/basic-page.css: {}
+      css/nodes/project.css: {}
+      css/nodes/sector-product.css: {}
   js:
     js/bootstrap/bootstrap.min.js: {}
     js/responsive-all.js: {}

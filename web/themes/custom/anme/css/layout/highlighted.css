@@ -11,14 +11,21 @@
     height: 300px;
     margin-right: 20px;
     border: 1px solid #e5e5e5;
+    padding: 3px;
 }
 
 #highlighted #block-anme-views-block-three-sector-products-block-1 .views-field-view-node {
     text-align: right;
     margin-top: 10px;
 }
+#highlighted #block-anme-views-block-three-sector-products-block-1 .views-field-field-sector-product-icon {
+    width: 112px;
+    height: 97px;
+    margin-left: 10px;
+}
 #highlighted #block-anme-views-block-three-sector-products-block-1 .views-field-field-sector-product-icon img {
-    width: 50%;
+    width: 100%;
+    height: 100%;
 }
 #highlighted #block-anme-views-block-three-sector-products-block-1 .views-field-title {
     text-align: center;
