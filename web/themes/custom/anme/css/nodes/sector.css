@@ -4,6 +4,8 @@ body.page-type-sector #sidebar-second {
 body.page-type-sector #content #block-anme-content .sector-node {
     min-height: 500px;
 }
+
+
 body.page-type-sector #content #block-anme-content .sector-node #myTabContent .field-sector-content img {
     width: 100%;
 }
@@ -16,6 +18,23 @@ body.page-type-sector #content #block-anme-content .sector-node #myTabContent .f
 #sidebar-second #block-anme-views-block-downloads-block-1-sector .more-link {
     float: right;
     margin-top: 40px;
+}
+body.page-type-sector #content #block-anme-content .sector-node #myTab li a {
+    display: block;
+    padding: 13px 20px 16px;
+    color: #8d8c8c;
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+    position: relative;
+    top: 2px;
+    border: none;
+}
+body.page-type-sector #content #block-anme-content .sector-node #myTab li a.active {
+    display: block;
+    padding: 13px 20px;
+    color: #00a3da;
+    border-bottom: 3px solid #00a3da;
 }
 #sidebar-second #block-anme-views-block-downloads-block-1-sector h2.block-title {
     text-indent: 50px;
