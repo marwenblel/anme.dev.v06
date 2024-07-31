@@ -273,3 +273,19 @@ body.page-id-7 #block-anme-views-block-services-widgets-block-1 .block-content .
     word-wrap: break-word;
     font-size: 10px;
 }
+
+.page-id-7 #block-anme-views-block-services-widgets-block-1 .block-content,
+.page-id-7 #content #block-anme-reem-image-block a {
+    border-top: 6px solid #465b94!important;
+}
+.page-id-7 #content-bottom #block-anme-views-block-our-platforms-block-1 .block-content {
+    border-top: 10px solid #465b94!important;
+}
+.page-id-7 #block-anme-views-block-services-widgets-block-1 .block-title,
+.page-id-7 #content-bottom #block-anme-views-block-our-platforms-block-1 h2.block-title,
+.page-id-7 #content #block-anme-reem-image-block a,
+.page-id-7 #content div#block-anme-views-block-news-events-block-1 div.block-content div.owl-item div.row,
+.page-id-7 #footer-content #block-anme-simplenewssubscription .block-content #edit-submit--2,
+.page-id-7 #footer {
+    background-color: #465b94!important;
+}

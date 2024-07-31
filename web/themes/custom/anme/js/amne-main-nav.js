@@ -8,7 +8,6 @@
            const superfishMain = document.querySelector('#superfish-main');
            const superfishMainToggle = document.querySelector('#superfish-main-accordion');
 
-
              if (activeElement_gp) {
                  superfishMain.style.backgroundColor = '#00a3da';
                  superfishMainToggle.style.backgroundColor = '#00a3da';

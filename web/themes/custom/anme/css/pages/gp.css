@@ -274,3 +274,19 @@ body.page-id-6 #block-anme-views-block-services-widgets-block-1 .block-content .
 }
 
 
+.page-id-6 #block-anme-views-block-services-widgets-block-1 .block-content,
+.page-id-6 #content #block-anme-reem-image-block a {
+    border-top: 6px solid #00a3da!important;
+}
+.page-id-6 #content-bottom #block-anme-views-block-our-platforms-block-1 .block-content {
+    border-top: 10px solid #00a3da!important;
+}
+.page-id-6 #block-anme-views-block-services-widgets-block-1 .block-title,
+.page-id-6 #content-bottom #block-anme-views-block-our-platforms-block-1 h2.block-title,
+.page-id-6 #content #block-anme-reem-image-block a,
+.page-id-6 #content div#block-anme-views-block-news-events-block-1 div.block-content div.owl-item div.row,
+.page-id-6 #footer-content #block-anme-simplenewssubscription .block-content #edit-submit--2,
+.page-id-6 #footer {
+    background-color: #00a3da!important;
+}
+
