@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f821cb4-24d6-4a25-8a14-3f2e1ecf5243" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v06\web\sites\default\files\2024-07\news3.pdf" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/themes/custom/anme/js/amne-main-nav.js" afterPath="$PROJECT_DIR$/web/themes/custom/anme/js/amne-main-nav.js" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\anme.dev.v06\web\responsive-all.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/themes/custom/anme/anme.libraries.yml" afterPath="$PROJECT_DIR$/web/themes/custom/anme/anme.libraries.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/themes/custom/anme/css/layout/content.css" afterPath="$PROJECT_DIR$/web/themes/custom/anme/css/layout/content.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/themes/custom/anme/css/pages/cp.css" afterPath="$PROJECT_DIR$/web/themes/custom/anme/css/pages/cp.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/themes/custom/anme/css/pages/gp.css" afterPath="$PROJECT_DIR$/web/themes/custom/anme/css/pages/gp.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/themes/custom/anme/css/pages/press.css" afterPath="$PROJECT_DIR$/web/themes/custom/anme/css/pages/press.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/themes/custom/anme/css/base/style.css" afterPath="$PROJECT_DIR$/web/themes/custom/anme/css/base/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/themes/custom/anme/css/pages/tp.css" afterPath="$PROJECT_DIR$/web/themes/custom/anme/css/pages/tp.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="anme.dev.v06.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,11 +31,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/base/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9496296" vertical-offset="804" max-vertical-offset="1547">
+            <state vertical-scroll-proportion="0.0" vertical-offset="804" max-vertical-offset="1547">
               <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/views/all.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9496296" vertical-offset="362" max-vertical-offset="1105">
+              <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="anme.libraries.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/anme.libraries.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="481" max-vertical-offset="1190">
+              <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -91,9 +103,10 @@
         <option value="$PROJECT_DIR$/web/themes/custom/anme/css/pages/press.css" />
         <option value="$PROJECT_DIR$/web/themes/custom/anme/css/pages/cp.css" />
         <option value="$PROJECT_DIR$/web/themes/custom/anme/css/pages/gp.css" />
-        <option value="$PROJECT_DIR$/web/themes/custom/anme/anme.libraries.yml" />
         <option value="$PROJECT_DIR$/web/themes/custom/anme/css/pages/search.css" />
         <option value="$PROJECT_DIR$/web/themes/custom/anme/css/base/style.css" />
+        <option value="$PROJECT_DIR$/web/themes/custom/anme/anme.libraries.yml" />
+        <option value="$PROJECT_DIR$/web/themes/custom/anme/css/views/all.css" />
       </list>
     </option>
   </component>
@@ -265,38 +278,8 @@
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="anme.dev.v06" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anme.dev.v06" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="custom" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="anme" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pages" />
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -327,10 +310,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="base" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -460,13 +439,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/layout/highlighted-header-second.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1581">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/templates/node/node--sector.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1632" max-vertical-offset="3553">
@@ -804,14 +776,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/anme.libraries.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="481" max-vertical-offset="1173">
-          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/pages/search.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3525926" vertical-offset="0" max-vertical-offset="675">
@@ -820,10 +784,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/anme.libraries.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="481" max-vertical-offset="1190">
+          <caret line="46" column="27" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/base/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9496296" vertical-offset="804" max-vertical-offset="1547">
+        <state vertical-scroll-proportion="0.0" vertical-offset="804" max-vertical-offset="1547">
           <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/themes/custom/anme/css/views/all.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9496296" vertical-offset="362" max-vertical-offset="1105">
+          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -44,6 +44,7 @@ global-styling:
       css/nodes/project.css: {}
       css/nodes/sector-product.css: {}
 
+      css/views/all.css: {}
       css/views/projects.css: {}
   js:
     js/bootstrap/bootstrap.min.js: {}
