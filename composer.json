@@ -27,6 +27,7 @@
         "drupal/simplenews": "^4.0",
         "drupal/superfish": "^1.7",
         "drupal/taxonomy_import": "^2.0",
+        "drupal/verf": "^2.0",
         "drupal/webform": "^6.2"
     },
     "conflict": {
