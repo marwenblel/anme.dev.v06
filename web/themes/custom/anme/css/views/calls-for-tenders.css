@@ -1,3 +1,11 @@
+body.path-calls-for-tenders #main.row {
+
+}
+body.path-calls-for-tenders #main.row #content.col-8 {
+    /*max-width: 100%!important;
+    flex: 0px!important;*/
+}
+
 /* Container styling */
 .calls-for-tenders .js-form-item {
     margin-bottom: 15px;
