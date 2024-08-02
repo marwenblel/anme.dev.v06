@@ -1,9 +1,6 @@
-body.path-calls-for-tenders #main.row {
-
-}
-body.path-calls-for-tenders #main.row #content.col-8 {
-    /*max-width: 100%!important;
-    flex: 0px!important;*/
+body.path-calls-for-tenders #main.row,
+body.path-calls-for-tenders #content.col-8 {
+    all: unset!important;
 }
 
 /* Container styling */

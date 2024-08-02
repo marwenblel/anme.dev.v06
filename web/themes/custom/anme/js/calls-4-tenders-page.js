@@ -1,4 +1,4 @@
-(function ($) {
+/*(function ($) {
     function removeRowCol8() {
             var main = document.querySelector('body.path-calls-for-tenders #main');
             var content = document.querySelector('body.path-calls-for-tenders #content');
@@ -10,4 +10,4 @@
             }
     }
     window.addEventListener('load', removeRowCol8);
-})(jQuery);
+})(jQuery);*/
