@@ -153,6 +153,15 @@
 /********************************/
 
 
+/********************************/
+/*CSS for block-anme-views-block-three-sector-products-block-4 in highlighted */
+@media (min-width: 300px) and (max-width: 768px) {
+    #highlighted div#block-anme-views-block-three-sector-products-block-4 {
+       display: none;
+    }
+}
+
+
 
 
 
